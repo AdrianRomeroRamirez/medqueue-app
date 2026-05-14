@@ -2,6 +2,11 @@
 
 Frontend para la gestión de citas médicas, construido con Vue 3 y Vite.
 
+## 🚀 Demo en producción
+
+- **Frontend:** https://medqueue-app-example.netlify.app
+- **API:** https://medqueue-api.onrender.com
+
 ## Stack Técnico
 
 - **Framework:** Vue 3 (Composition API)
